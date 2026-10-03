@@ -11,7 +11,7 @@ SQL-based sales analytics project — from raw transactional data to an interact
 - **Beauty is the weakest category**: lowest order volume, fewest customers, and the only margin one point below the rest (14% vs. 15% elsewhere).
 - **Discounts above 15% don't pay off**: the 20% discount tier produces the lowest total sales and lowest margin of all tiers — deeper discounts aren't buying more volume.
 
-**[→ Read the full report (PDF)](#)** &nbsp;|&nbsp; **[→ Open the live dashboard (Looker Studio)](#)**
+**[→ Read the full report (PDF)](./report/E-commerce_Sales_Analysis_2023_2025.pdf)** &nbsp;|&nbsp; **[→ Open the live dashboard (Looker Studio)](https://datastudio.google.com/reporting/828ef23e-b333-4791-b634-35ed35476d5c)**
 
 ## What's in this repo
 
@@ -23,11 +23,11 @@ SQL-based sales analytics project — from raw transactional data to an interact
 
 ## Tools
 
-SQL &middot; Looker Studio &middot; [your SQL engine / platform here, e.g. PostgreSQL / BigQuery / MySQL]
+SQL (SQLite) &middot; DBeaver &middot; Looker Studio
 
 ## Data Source
 
-Public e-commerce sales dataset sourced from [Kaggle](#) — used for portfolio/practice purposes, not proprietary company data.
+Public e-commerce sales dataset sourced from [Kaggle](https://www.kaggle.com/datasets/prince7489/e-commerce-sales) — used for portfolio/practice purposes, not proprietary company data.
 
 ## About this project
 
